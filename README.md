@@ -36,4 +36,7 @@
       
 ![Snake animation](https://github.com/Wendelllds/Wendelllds/blob/output/github-contribution-grid-snake.svg)
   
+##
+  
+![giphy (1)](https://user-images.githubusercontent.com/37053332/131744971-530aec72-e80a-42b2-aa56-20a36ae684c3.gif)
   
