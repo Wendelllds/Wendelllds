@@ -1,8 +1,13 @@
-### Oii, Tudo bem? Eu sou Wendell  🧙‍ ✌ 👋
+## Oii, Tudo bem? Eu sou Wendell  🧙‍ ✌ 👋
 
-- 👨‍🎓 Estudante de **Engenharia de Software**
+ - 👨‍🎓 Estudante de **Engenharia de Software**
 - 🌱 Atualemente estou focado em **Front-end** 
 - 📫 Contato : wendelll40@gmail.com 
+##
+
+### 🌍 **"Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende."** 🧠
+
+
 
 ##
 
