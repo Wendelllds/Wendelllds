@@ -1,4 +1,4 @@
-# Oii, Tudo bem? Eu sou Wendell  🧙‍ ✌ 👋
+## Oii, Tudo bem? Eu sou Wendell  🧙‍ ✌ 👋
 
  - 👨‍🎓 Estudante de **Engenharia de Software**
 - 🌱 Atualemente estou focado em **Front-end** 
