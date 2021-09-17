@@ -1,6 +1,6 @@
 ## Oii, Tudo bem? Eu sou Wendell  🧙‍ ✌ 👋
 
- - 👨‍🎓 Estudante de **Engenharia de Software**
+ -👨‍🎓 Estudante de **Engenharia de Software**
 - 🌱 Atualemente estou focado em **Front-end** 
 - 📫 Contato : wendelll40@gmail.com 
 ##
