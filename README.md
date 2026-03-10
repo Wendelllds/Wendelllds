@@ -1,3 +1,17 @@
+
+
+
+
+# 👨‍💻 Wendell Lucas | QA Engineer
+
+💡 *"Quality is never an accident; it is always the result of intelligent effort."*
+
+Sou apaixonado por tecnologia e qualidade de software.  
+Atualmente estou focado em **Quality Assurance (QA)**, buscando garantir que sistemas sejam confiáveis, funcionais e entreguem a melhor experiência possível para o usuário.
+
+🚀 Em constante aprendizado e evolução na área de tecnologia.
+
+---
 <div align="center">
   <img src="banner-qa.png" alt="QA Engineer trabalhando" width="100%">
 </div>
@@ -12,18 +26,7 @@
 
 </div>
 
----
-
-# 👨‍💻 Wendell Lucas | QA Engineer
-
-💡 *"Quality is never an accident; it is always the result of intelligent effort."*
-
-Sou apaixonado por tecnologia e qualidade de software.  
-Atualmente estou focado em **Quality Assurance (QA)**, buscando garantir que sistemas sejam confiáveis, funcionais e entreguem a melhor experiência possível para o usuário.
-
-🚀 Em constante aprendizado e evolução na área de tecnologia.
-
----
+<br>
 
 ## 🔎 Sobre mim
 
