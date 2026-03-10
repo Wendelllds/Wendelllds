@@ -2,7 +2,7 @@
 
 
 
-# 👨‍💻 Wendell Lucas | QA Engineer
+# 👨‍💻  QA Engineer
 
 💡 *"Quality is never an accident; it is always the result of intelligent effort."*
 
