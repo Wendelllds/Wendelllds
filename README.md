@@ -28,10 +28,10 @@ Atualmente estou focado em **Quality Assurance (QA)**, buscando garantir que sis
 ## 🔎 Sobre mim
 
 - 🎯 Focado em **Quality Assurance**
-- 🧠 Aprendendo **Testes de Software**
+- 🧠 **Testes de Software**
 - 💻 Experiência com tecnologia e suporte
-- 📚 Estudando **automação de testes**
-- 🚀 Futuro **QA Automation Engineer**
+- 📚 **automação de testes**
+- 🚀 **QA Automation Engineer**
 
 ---
 
@@ -43,4 +43,4 @@ Atualmente estou focado em **Quality Assurance (QA)**, buscando garantir que sis
 - Análise de Bugs
 - Git & GitHub
 - Lógica de Programação
-- JavaScript (em aprendizado)
+- JavaScript 
